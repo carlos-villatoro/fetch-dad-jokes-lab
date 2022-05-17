@@ -1,0 +1,14 @@
+body {
+    background-image: url('https://c.tenor.com/B8aW-1SjT0UAAAAC/dad-joke.gif');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: bottom;
+    /* height:100vh; */
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px black;
+}
+img{
+    background-color: white;
+}
